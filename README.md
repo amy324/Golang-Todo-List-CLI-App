@@ -53,7 +53,8 @@ Here's a quick overview of available options:
 
 1. Expected output after running `go main.go`
 
-```Welcome to your CLI To-Do List
+```
+Welcome to your CLI To-Do List
 
 Options:
 1. Add Task
