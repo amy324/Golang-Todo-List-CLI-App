@@ -1,8 +1,7 @@
 # CLI To-Do List App
 
-This is a simple command-line interface (CLI) to-do list application written in Golang. The application allows users to manage their to-do tasks with basic CRUD (Create, Read, Update, Delete) operations.
+This is a simple command-line interface (CLI) to-do list application written in Golang. This project's purpose is to demonstrate implementing CRUD functionality into Golang CLI applications. The application allows users to manage their to-do tasks with basic CRUD (Create, Read, Update, Delete) operations.
 
-Stay tuned for an upcoming project which takes this idea to the next level, where I leverage databases for effective task management. 
 
 ## Features
 
@@ -17,7 +16,7 @@ Stay tuned for an upcoming project which takes this idea to the next level, wher
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amy324/Basic-Golang-To-Do-List-App.git
+   git clone https://github.com/amy324/Golang-Todo-List-CLI-App.git
    ```
 2.  Make sure you have [Go](https://golang.org/) installed on your machine.
 3. Run the application using the terminal command
